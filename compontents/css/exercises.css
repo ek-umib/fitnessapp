@@ -1,0 +1,86 @@
+.col-md-4{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    margin: 20px 15px;
+}
+
+
+
+arms h2{
+    color: #ff7700;
+    font-family: "Black Ops One", system-ui;
+}
+
+arms .card{
+    background-color: #000;
+}
+
+arms .card img{
+    border: 1px white solid;
+    margin: 5px 0;
+}
+
+arms .card-body{
+    text-align: center;
+    color: #fff;
+}
+
+arms .card-body a{
+    background-color: #ff7700;
+    border: none;
+}
+
+
+
+
+legs{
+    background-color: #000;
+}
+
+legs h2{
+    font-family: "Black Ops One", system-ui;
+    color: #fff;
+}
+
+legs .card img{
+    border: 1px rgb(0, 0, 0) solid;
+    margin: 5px 0;
+}
+
+legs .card-body{
+    text-align: center;
+}
+
+legs .card-body a{
+    background-color: #ff7700;
+    border: none;
+}
+
+
+
+abs h2{
+    color: #ff7700;
+    font-family: "Black Ops One", system-ui;
+}
+
+abs .card{
+    background-color: #000;
+}
+
+abs .card img{
+    border: 1px white solid;
+    margin: 5px 0;
+}
+
+abs .card-body{
+    text-align: center;
+    color: #fff;
+}
+
+abs .card-body a{
+    background-color: #ff7700;
+    border: none;
+}
